@@ -126,7 +126,7 @@ ID    Date         Category        Description                    Amount
 ---
 
 ## **File Structure**
-- **`expense_tracker.py`**: Main Python script that runs the application.
+- **`main.py`**: Main Python script that runs the application.
 
 ---
 
